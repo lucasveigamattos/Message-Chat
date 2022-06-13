@@ -5,5 +5,3 @@ Installing the dependencies: npm install express and npm install socket.io
 Starting server: node server.js
 
 Access in browser: http://localhost:3000/
-
-teste
